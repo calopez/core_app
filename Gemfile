@@ -36,6 +36,7 @@ group :development, :test do
   gem 'shoulda-matchers', '~> 4.5', '>= 4.5.1'
   gem 'factory_bot_rails'
   gem 'database_cleaner', '~> 2.0', '>= 2.0.1'
+  gem 'rails-controller-testing'
 end
 
 group :development do
